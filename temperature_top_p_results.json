@@ -1,0 +1,47 @@
+{
+    "temp_0.1_topp_0.1": {
+        "response_length": 346,
+        "unique_words": 197,
+        "preview": "1. Complete your profile: Before you start networking, ensure your profile is complete and up-to-dat"
+    },
+    "temp_0.1_topp_0.5": {
+        "response_length": 358,
+        "unique_words": 205,
+        "preview": "Certainly! Here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Ensure t"
+    },
+    "temp_0.1_topp_0.9": {
+        "response_length": 372,
+        "unique_words": 214,
+        "preview": "Here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Ensure that your Li"
+    },
+    "temp_0.5_topp_0.1": {
+        "response_length": 373,
+        "unique_words": 216,
+        "preview": "Sure, here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Make sure you"
+    },
+    "temp_0.5_topp_0.5": {
+        "response_length": 378,
+        "unique_words": 214,
+        "preview": "Here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Make sure your Link"
+    },
+    "temp_0.5_topp_0.9": {
+        "response_length": 378,
+        "unique_words": 214,
+        "preview": "Here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Make sure your Link"
+    },
+    "temp_0.9_topp_0.1": {
+        "response_length": 378,
+        "unique_words": 214,
+        "preview": "Here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Make sure your Link"
+    },
+    "temp_0.9_topp_0.5": {
+        "response_length": 378,
+        "unique_words": 214,
+        "preview": "Here are some best practices for LinkedIn networking:\n\n1. Optimize your profile: Make sure your Link"
+    },
+    "temp_0.9_topp_0.9": {
+        "response_length": 293,
+        "unique_words": 169,
+        "preview": "I apologize for repeating myself earlier. Here are some additional tips for LinkedIn networking:\n\n1."
+    }
+}
